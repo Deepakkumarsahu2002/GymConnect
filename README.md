@@ -6,6 +6,8 @@ Navigate to your project's root directory (GymConnect).
 
 python -m venv .venv
 
+virtual environment setup
+
 3.This will create a new folder named .venv in your project directory.
 
 4. Activate the Virtual Environment
